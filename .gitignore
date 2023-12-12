@@ -1,2 +1,5 @@
 Customerbehavior_Final.csv
 Customerbehavior_Final.zip
+
+# Ignore cache files
+*.feather
