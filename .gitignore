@@ -3,3 +3,4 @@ Customerbehavior_Final.zip
 
 # Ignore cache files
 *.feather
+*.joblib
